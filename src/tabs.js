@@ -1,6 +1,5 @@
 import $ from 'jquery';
 import EventEmitter from 'events';
-import './css/style.scss';
 
 const Selector = (classPrefix) => ({
   PREFIX: classPrefix,
