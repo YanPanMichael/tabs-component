@@ -10,7 +10,7 @@ class App extends Component {
     this.handleChange = this.handleChange.bind(this);
 
     this.state = {
-      activeIndex: 0,
+      activeIndex: 2,
     };
   }
 
